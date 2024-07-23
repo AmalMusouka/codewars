@@ -4,15 +4,17 @@
 
 
 def conv(s)
-  a = []
-  s.each_char do |c|
-    if c == "T"
-      a.append("U")
-    else
-    a.append(c)
-    end
-  end
-  pp a.join
+  # a = []
+  # s.each_char do |c|
+  #   if c == "T"
+  #     a.append("U")
+  #   else
+  #   a.append(c)
+  #   end
+  # end
+  # pp a.join
+
+  pp s.gsub('T','U')
 
 end
 
