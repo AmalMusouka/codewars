@@ -4,12 +4,13 @@
 
 
 def combat(health, damage)
-  remainder = health - damage
-  if remainder.negative?
-    0
-  else
-    remainder
-  end
+  # remainder = health - damage
+  # if remainder.negative?
+  #   0
+  # else
+  #   remainder
+  # end
+  [health - damage, 0].max
 
   end
 
