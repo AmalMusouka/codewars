@@ -7,9 +7,10 @@ def conv(s)
   a = []
   s.each_char do |c|
     if c == "T"
-      c == "U"
-    end
+      a.append("U")
+    else
     a.append(c)
+    end
   end
   pp a.join
 
