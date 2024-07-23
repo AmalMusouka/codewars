@@ -6,19 +6,22 @@
 
 def traffic_lights(s)
 
-  case s
-  when "red"
-    puts   "green"
+  # case s
+  # when "red"
+  #   puts   "green"
+  #
+  # when "yellow"
+  #   puts   "red"
+  #
+  # when "green"
+  #   puts "yellow"
+  #
+  # end
 
-  when "yellow"
-    puts   "red"
+  {"green" => "yellow", "yellow" => "red", "red" => "green"}[s]
 
-  when "green"
-    puts "yellow"
-
-  end
 
 
 end
 
-traffic_lights("yellow")
+pp traffic_lights('yellow')
