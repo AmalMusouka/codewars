@@ -11,6 +11,7 @@ require_relative 'dojo/kyu_8/traffic_lights'
 require_relative 'dojo/kyu_8/hello_world'
 require_relative 'dojo/kyu_8/hoola_hoop'
 require_relative 'dojo/kyu_8/get_character'
+require_relative 'dojo/kyu_8/nearest_pump'
 
 module Dojo
   class Error < StandardError; end
