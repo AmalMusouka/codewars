@@ -14,6 +14,7 @@ require_relative 'dojo/kyu_8/get_character'
 require_relative 'dojo/kyu_8/nearest_pump'
 require_relative 'dojo/kyu_8/check_even'
 require_relative 'dojo/kyu_8/dragon_slayer'
+require_relative 'dojo/kyu_8/get_negative'
 
 module Dojo
   class Error < StandardError; end
