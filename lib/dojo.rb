@@ -9,6 +9,7 @@ require_relative 'dojo/kyu_8/parse_nice_int'
 require_relative 'dojo/kyu_8/player_health'
 require_relative 'dojo/kyu_8/traffic_lights'
 require_relative 'dojo/kyu_8/hello_world'
+require_relative 'dojo/kyu_8/hoola_hoop'
 
 module Dojo
   class Error < StandardError; end
