@@ -15,6 +15,7 @@ require_relative 'dojo/kyu_8/nearest_pump'
 require_relative 'dojo/kyu_8/check_even'
 require_relative 'dojo/kyu_8/dragon_slayer'
 require_relative 'dojo/kyu_8/get_negative'
+require_relative 'dojo/kyu_8/point_of_symmetry'
 
 module Dojo
   class Error < StandardError; end
