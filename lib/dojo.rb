@@ -17,6 +17,7 @@ require_relative 'dojo/kyu_8/dragon_slayer'
 require_relative 'dojo/kyu_8/get_negative'
 require_relative 'dojo/kyu_8/point_of_symmetry'
 require_relative 'dojo/kyu_8/collinearity'
+require_relative 'dojo/kyu_8/quadrants'
 
 module Dojo
   class Error < StandardError; end
