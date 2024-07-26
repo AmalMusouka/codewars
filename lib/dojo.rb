@@ -20,6 +20,7 @@ require_relative 'dojo/kyu_8/collinearity'
 require_relative 'dojo/kyu_8/quadrants'
 require_relative 'dojo/kyu_8/gravity_flip'
 require_relative 'dojo/kyu_8/check_same_case'
+require_relative 'dojo/kyu_8/quadratic_coefficients_solver'
 
 module Dojo
   class Error < StandardError; end
