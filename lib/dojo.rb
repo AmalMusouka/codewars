@@ -22,6 +22,7 @@ require_relative 'dojo/kyu_8/gravity_flip'
 require_relative 'dojo/kyu_8/check_same_case'
 require_relative 'dojo/kyu_8/quadratic_coefficients_solver'
 require_relative 'dojo/kyu_8/quarter_of_the_year'
+require_relative 'dojo/kyu_8/dynamic_method_calls'
 
 module Dojo
   class Error < StandardError; end
