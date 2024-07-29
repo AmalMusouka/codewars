@@ -25,6 +25,7 @@ require_relative 'dojo/kyu_8/quarter_of_the_year'
 require_relative 'dojo/kyu_8/dynamic_method_calls'
 require_relative 'dojo/kyu_8/closest_elevator'
 require_relative 'dojo/kyu_8/total_amount_of_points'
+require_relative 'dojo/kyu_8/sum_of_differences'
 
 module Dojo
   class Error < StandardError; end
