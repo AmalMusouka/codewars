@@ -28,6 +28,7 @@ require_relative 'dojo/kyu_8/total_amount_of_points'
 require_relative 'dojo/kyu_8/sum_of_differences'
 require_relative 'dojo/kyu_8/twice_as_old'
 require_relative 'dojo/kyu_8/draw_stairs'
+require_relative 'dojo/kyu_8/pillars'
 
 module Dojo
   class Error < StandardError; end
