@@ -24,6 +24,7 @@ require_relative 'dojo/kyu_8/quadratic_coefficients_solver'
 require_relative 'dojo/kyu_8/quarter_of_the_year'
 require_relative 'dojo/kyu_8/dynamic_method_calls'
 require_relative 'dojo/kyu_8/closest_elevator'
+require_relative 'dojo/kyu_8/total_amount_of_points'
 
 module Dojo
   class Error < StandardError; end
