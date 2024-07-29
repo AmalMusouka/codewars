@@ -30,6 +30,7 @@ require_relative 'dojo/kyu_8/twice_as_old'
 require_relative 'dojo/kyu_8/draw_stairs'
 require_relative 'dojo/kyu_8/pillars'
 require_relative 'dojo/kyu_8/count_the_sheep'
+require_relative 'dojo/kyu_8/expression_matters'
 
 module Dojo
   class Error < StandardError; end
