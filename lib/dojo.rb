@@ -34,6 +34,7 @@ require_relative 'dojo/kyu_8/expression_matters'
 require_relative 'dojo/kyu_8/students_grade'
 require_relative 'dojo/kyu_8/area_or_perimeter'
 require_relative 'dojo/kyu_8/the_feast_of_many_beasts'
+require_relative 'dojo/kyu_8/find_nearest_square'
 
 module Dojo
   class Error < StandardError; end
