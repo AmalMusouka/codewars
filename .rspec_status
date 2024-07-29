@@ -65,5 +65,7 @@ example_id                                                     | status | run_ti
 ./spec/dojo/kyu_8/total_amount_of_points_spec.rb[1:1:1]        | passed | 0.00074 seconds |
 ./spec/dojo/kyu_8/total_amount_of_points_spec.rb[1:1:2]        | passed | 0.00009 seconds |
 ./spec/dojo/kyu_8/traffic_lights_spec.rb[1:1:1]                | passed | 0.00057 seconds |
+./spec/dojo/kyu_8/twice_as_old_spec.rb[1:1:1]                  | passed | 0.00072 seconds |
+./spec/dojo/kyu_8/twice_as_old_spec.rb[1:1:2]                  | passed | 0.00007 seconds |
 ./spec/dojo_spec.rb[1:1]                                       | passed | 0.00044 seconds |
 ./spec/dojo_spec.rb[1:2]                                       | failed | 0.00757 seconds |
