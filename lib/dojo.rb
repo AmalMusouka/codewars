@@ -45,6 +45,7 @@ require_relative 'dojo/kyu_8/array_plus_array'
 require_relative 'dojo/kyu_8/the_falling_speed_of_petals'
 require_relative 'dojo/kyu_8/reverse_sequence'
 require_relative 'dojo/kyu_8/convert_to_binary'
+require_relative 'dojo/kyu_8/return_the_day'
 
 module Dojo
   class Error < StandardError; end
