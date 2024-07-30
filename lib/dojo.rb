@@ -49,6 +49,7 @@ require_relative 'dojo/kyu_8/return_the_day'
 require_relative 'dojo/kyu_8/string_contamination'
 require_relative 'dojo/kyu_8/find_integral'
 require_relative 'dojo/kyu_8/count_odd'
+require_relative 'dojo/kyu_8/replace_all_dots'
 
 module Dojo
   class Error < StandardError; end
