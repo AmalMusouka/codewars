@@ -41,6 +41,7 @@ require_relative 'dojo/kyu_8/define_card_suit'
 require_relative 'dojo/kyu_8/multiple_of_index'
 require_relative 'dojo/kyu_8/csv_representation_of_array'
 require_relative 'dojo/kyu_8/multiplication_table'
+require_relative 'dojo/kyu_8/array_plus_array'
 
 module Dojo
   class Error < StandardError; end
