@@ -101,6 +101,8 @@ example_id                                                     | status | run_ti
 ./spec/dojo/kyu_8/students_grade_spec.rb[1:1:3]                | passed | 0.00008 seconds |
 ./spec/dojo/kyu_8/sum_of_differences_spec.rb[1:1:1]            | passed | 0.0008 seconds  |
 ./spec/dojo/kyu_8/sum_of_differences_spec.rb[1:1:2]            | passed | 0.00009 seconds |
+./spec/dojo/kyu_8/the_falling_speed_of_petals_spec.rb[1:1:1]   | passed | 0.00078 seconds |
+./spec/dojo/kyu_8/the_falling_speed_of_petals_spec.rb[1:1:2]   | passed | 0.00006 seconds |
 ./spec/dojo/kyu_8/the_feast_of_many_beasts_spec.rb[1:1:1]      | passed | 0.00066 seconds |
 ./spec/dojo/kyu_8/the_feast_of_many_beasts_spec.rb[1:1:2]      | passed | 0.00006 seconds |
 ./spec/dojo/kyu_8/total_amount_of_points_spec.rb[1:1:1]        | passed | 0.00074 seconds |

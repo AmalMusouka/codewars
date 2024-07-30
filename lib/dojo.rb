@@ -42,6 +42,7 @@ require_relative 'dojo/kyu_8/multiple_of_index'
 require_relative 'dojo/kyu_8/csv_representation_of_array'
 require_relative 'dojo/kyu_8/multiplication_table'
 require_relative 'dojo/kyu_8/array_plus_array'
+require_relative 'dojo/kyu_8/the_falling_speed_of_petals'
 
 module Dojo
   class Error < StandardError; end
