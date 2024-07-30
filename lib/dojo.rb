@@ -40,6 +40,7 @@ require_relative 'dojo/kyu_8/century_of_the_year'
 require_relative 'dojo/kyu_8/define_card_suit'
 require_relative 'dojo/kyu_8/multiple_of_index'
 require_relative 'dojo/kyu_8/csv_representation_of_array'
+require_relative 'dojo/kyu_8/multiplication_table'
 
 module Dojo
   class Error < StandardError; end
