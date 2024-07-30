@@ -48,6 +48,7 @@ require_relative 'dojo/kyu_8/convert_to_binary'
 require_relative 'dojo/kyu_8/return_the_day'
 require_relative 'dojo/kyu_8/string_contamination'
 require_relative 'dojo/kyu_8/find_integral'
+require_relative 'dojo/kyu_8/count_odd'
 
 module Dojo
   class Error < StandardError; end
