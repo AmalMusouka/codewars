@@ -38,6 +38,7 @@ require_relative 'dojo/kyu_8/find_nearest_square'
 require_relative 'dojo/kyu_8/cat_years_dog_years'
 require_relative 'dojo/kyu_8/century_of_the_year'
 require_relative 'dojo/kyu_8/define_card_suit'
+require_relative 'dojo/kyu_8/multiple_of_index'
 
 module Dojo
   class Error < StandardError; end
