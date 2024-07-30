@@ -5,6 +5,9 @@ example_id                                                     | status | run_ti
 ./spec/dojo/kyu_8/cat_years_dog_years_spec.rb[1:1:1]           | passed | 0.00193 seconds |
 ./spec/dojo/kyu_8/cat_years_dog_years_spec.rb[1:1:2]           | passed | 0.00012 seconds |
 ./spec/dojo/kyu_8/cat_years_dog_years_spec.rb[1:1:3]           | passed | 0.00008 seconds |
+./spec/dojo/kyu_8/century_of_the_year_spec.rb[1:1:1]           | passed | 0.00092 seconds |
+./spec/dojo/kyu_8/century_of_the_year_spec.rb[1:1:2]           | passed | 0.00006 seconds |
+./spec/dojo/kyu_8/century_of_the_year_spec.rb[1:1:3]           | passed | 0.00005 seconds |
 ./spec/dojo/kyu_8/check_even_spec.rb[1:1:1]                    | passed | 0.00151 seconds |
 ./spec/dojo/kyu_8/check_even_spec.rb[1:1:2]                    | passed | 0.00006 seconds |
 ./spec/dojo/kyu_8/check_even_spec.rb[1:1:3]                    | passed | 0.00003 seconds |
