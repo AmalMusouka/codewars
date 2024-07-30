@@ -37,6 +37,7 @@ require_relative 'dojo/kyu_8/the_feast_of_many_beasts'
 require_relative 'dojo/kyu_8/find_nearest_square'
 require_relative 'dojo/kyu_8/cat_years_dog_years'
 require_relative 'dojo/kyu_8/century_of_the_year'
+require_relative 'dojo/kyu_8/define_card_suit'
 
 module Dojo
   class Error < StandardError; end
