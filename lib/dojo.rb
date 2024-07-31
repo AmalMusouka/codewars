@@ -54,6 +54,7 @@ require_relative 'dojo/kyu_8/reagent_formula'
 
 require_relative 'dojo/kyu_7/vowel_count'
 require_relative 'dojo/kyu_7/disemvowel_trolls'
+require_relative 'dojo/kyu_7/square_all_digits'
 
 module Dojo
   class Error < StandardError; end
