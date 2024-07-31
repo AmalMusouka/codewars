@@ -1,7 +1,7 @@
 example_id                                                     | status | run_time        |
 -------------------------------------------------------------- | ------ | --------------- |
 ./spec/dojo/kyu_7/vowel_count_spec.rb[1:1:1]                   | passed | 0.00054 seconds |
-./spec/dojo/kyu_7/vowel_count_spec.rb[1:1:2]                   | passed | 0.00004 seconds |
+./spec/dojo/kyu_7/vowel_count_spec.rb[1:1:2]                   | passed | 0.00003 seconds |
 ./spec/dojo/kyu_8/area_or_perimeter_spec.rb[1:1:1]             | passed | 0.00076 seconds |
 ./spec/dojo/kyu_8/area_or_perimeter_spec.rb[1:1:2]             | passed | 0.00006 seconds |
 ./spec/dojo/kyu_8/array_plus_array_spec.rb[1:1:1]              | passed | 0.00086 seconds |
