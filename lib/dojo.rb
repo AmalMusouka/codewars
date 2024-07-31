@@ -52,6 +52,8 @@ require_relative 'dojo/kyu_8/count_odd'
 require_relative 'dojo/kyu_8/replace_all_dots'
 require_relative 'dojo/kyu_8/reagent_formula'
 
+require_relative 'dojo/kyu_7/vowel_count'
+
 module Dojo
   class Error < StandardError; end
   # Your code goes here...
