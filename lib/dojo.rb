@@ -56,6 +56,7 @@ require_relative 'dojo/kyu_7/vowel_count'
 require_relative 'dojo/kyu_7/disemvowel_trolls'
 require_relative 'dojo/kyu_7/square_all_digits'
 require_relative 'dojo/kyu_7/highest_and_lowest'
+require_relative 'dojo/kyu_7/descending_order'
 
 module Dojo
   class Error < StandardError; end
