@@ -59,6 +59,7 @@ require_relative 'dojo/kyu_7/highest_and_lowest'
 require_relative 'dojo/kyu_7/descending_order'
 require_relative 'dojo/kyu_7/get_the_middle_character'
 require_relative 'dojo/kyu_7/list_filtering'
+require_relative 'dojo/kyu_7/youre_a_square'
 
 module Dojo
   class Error < StandardError; end
