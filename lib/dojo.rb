@@ -61,6 +61,7 @@ require_relative 'dojo/kyu_7/get_the_middle_character'
 require_relative 'dojo/kyu_7/list_filtering'
 require_relative 'dojo/kyu_7/youre_a_square'
 require_relative 'dojo/kyu_7/isograms'
+require_relative 'dojo/kyu_7/mumbling'
 
 module Dojo
   class Error < StandardError; end
