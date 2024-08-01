@@ -62,6 +62,7 @@ require_relative 'dojo/kyu_7/list_filtering'
 require_relative 'dojo/kyu_7/youre_a_square'
 require_relative 'dojo/kyu_7/isograms'
 require_relative 'dojo/kyu_7/mumbling'
+require_relative 'dojo/kyu_7/alphabet_product'
 
 module Dojo
   class Error < StandardError; end
