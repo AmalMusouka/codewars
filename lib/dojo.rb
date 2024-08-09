@@ -66,6 +66,8 @@ require_relative 'dojo/kyu_7/alphabet_product'
 require_relative 'dojo/kyu_7/finding_queen_on_the_board'
 require_relative 'dojo/kyu_7/find_shortest_word'
 require_relative 'dojo/kyu_7/exes_and_ohs'
+require_relative 'dojo/kyu_7/jaden_casing_strings'
+
 
 module Dojo
   class Error < StandardError; end

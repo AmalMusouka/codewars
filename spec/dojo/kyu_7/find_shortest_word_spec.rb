@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require 'rspec'
-
 RSpec.describe Dojo::Kyu7::FindShortestWord do
   describe '#find_short' do
     it 'returns the size of the shortest word in the string' do
