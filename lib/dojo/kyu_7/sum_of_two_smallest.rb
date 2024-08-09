@@ -3,7 +3,7 @@
 module Dojo
   module Kyu7
     module SumOfTwoSmallest
-      def sum_two(numbers)
+      def self.sum_two(numbers)
         numbers.min + numbers.sort[1]
         # numbers.min(2).sum
       end
