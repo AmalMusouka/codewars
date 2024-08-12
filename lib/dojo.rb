@@ -75,6 +75,7 @@ require_relative 'dojo/kyu_7/printer_error'
 require_relative 'dojo/kyu_7/string_ends_with'
 require_relative 'dojo/kyu_7/binary_addition'
 require_relative 'dojo/kyu_7/growth_of_population'
+require_relative 'dojo/kyu_7/is_this_a_triangle'
 
 module Dojo
   class Error < StandardError; end
