@@ -70,6 +70,7 @@ require_relative 'dojo/kyu_7/jaden_casing_strings'
 require_relative 'dojo/kyu_7/sum_of_two_smallest'
 require_relative 'dojo/kyu_7/sum_of_numbers'
 require_relative 'dojo/kyu_7/two_to_one'
+require_relative 'dojo/kyu_7/find_the_next_perfect_square'
 
 
 module Dojo
