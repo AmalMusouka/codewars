@@ -73,7 +73,7 @@ require_relative 'dojo/kyu_7/two_to_one'
 require_relative 'dojo/kyu_7/find_the_next_perfect_square'
 require_relative 'dojo/kyu_7/printer_error'
 require_relative 'dojo/kyu_7/string_ends_with'
-
+require_relative 'dojo/kyu_7/binary_addition'
 
 module Dojo
   class Error < StandardError; end
