@@ -68,6 +68,7 @@ require_relative 'dojo/kyu_7/find_shortest_word'
 require_relative 'dojo/kyu_7/exes_and_ohs'
 require_relative 'dojo/kyu_7/jaden_casing_strings'
 require_relative 'dojo/kyu_7/sum_of_two_smallest'
+require_relative 'dojo/kyu_7/sum_of_numbers'
 
 
 module Dojo
