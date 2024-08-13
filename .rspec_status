@@ -54,6 +54,11 @@ example_id                                                     | status | run_ti
 ./spec/dojo/kyu_7/ones_and_zeros_spec.rb[1:1:1]                | passed | 0.00075 seconds |
 ./spec/dojo/kyu_7/ones_and_zeros_spec.rb[1:1:2]                | passed | 0.00011 seconds |
 ./spec/dojo/kyu_7/ones_and_zeros_spec.rb[1:1:3]                | passed | 0.00006 seconds |
+./spec/dojo/kyu_7/perpendicular_lines_spec.rb[1:1:1]           | passed | 0.00074 seconds |
+./spec/dojo/kyu_7/perpendicular_lines_spec.rb[1:1:2]           | passed | 0.00006 seconds |
+./spec/dojo/kyu_7/perpendicular_lines_spec.rb[1:1:3]           | passed | 0.00007 seconds |
+./spec/dojo/kyu_7/perpendicular_lines_spec.rb[1:1:4]           | passed | 0.00004 seconds |
+./spec/dojo/kyu_7/perpendicular_lines_spec.rb[1:1:5]           | passed | 0.00006 seconds |
 ./spec/dojo/kyu_7/printer_error_spec.rb[1:1:1]                 | passed | 0.00129 seconds |
 ./spec/dojo/kyu_7/printer_error_spec.rb[1:1:2]                 | passed | 0.00007 seconds |
 ./spec/dojo/kyu_7/printer_error_spec.rb[1:1:3]                 | passed | 0.00007 seconds |
