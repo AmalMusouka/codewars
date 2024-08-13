@@ -77,6 +77,7 @@ require_relative 'dojo/kyu_7/binary_addition'
 require_relative 'dojo/kyu_7/growth_of_population'
 require_relative 'dojo/kyu_7/is_this_a_triangle'
 require_relative 'dojo/kyu_7/ones_and_zeros'
+require_relative 'dojo/kyu_7/credit_card_mask'
 
 module Dojo
   class Error < StandardError; end
