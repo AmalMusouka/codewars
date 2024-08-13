@@ -83,6 +83,7 @@ require_relative 'dojo/kyu_7/testing123'
 require_relative 'dojo/kyu_7/find_the_stray_number'
 require_relative 'dojo/kyu_7/dont_give_me_five'
 require_relative 'dojo/kyu_7/perpendicular_lines'
+require_relative 'dojo/kyu_7/sum_of_the_first_nth_terms_of_a_series'
 
 module Dojo
   class Error < StandardError; end
