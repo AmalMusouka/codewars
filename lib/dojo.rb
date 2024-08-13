@@ -80,6 +80,7 @@ require_relative 'dojo/kyu_7/ones_and_zeros'
 require_relative 'dojo/kyu_7/credit_card_mask'
 require_relative 'dojo/kyu_7/number_of_people_in_the_bus'
 require_relative 'dojo/kyu_7/testing123'
+require_relative 'dojo/kyu_7/find_the_stray_number'
 
 module Dojo
   class Error < StandardError; end
