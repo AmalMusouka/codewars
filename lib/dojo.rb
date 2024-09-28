@@ -86,6 +86,7 @@ require_relative 'dojo/kyu_7/perpendicular_lines'
 require_relative 'dojo/kyu_7/sum_of_the_first_nth_terms_of_a_series'
 require_relative 'dojo/kyu_7/find_the_divisors'
 require_relative 'dojo/kyu_7/clean_up_after_dog'
+require_relative 'dojo/kyu_7/count_the_divisors'
 
 module Dojo
   class Error < StandardError; end
