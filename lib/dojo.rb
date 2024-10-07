@@ -89,6 +89,7 @@ require_relative 'dojo/kyu_7/clean_up_after_dog'
 require_relative 'dojo/kyu_7/count_the_divisors'
 require_relative 'dojo/kyu_7/take_the_biggest_and_nothing_else'
 require_relative 'dojo/kyu_7/length_and_two_values'
+require_relative 'dojo/kyu_7/interlockable_binary_pairs'
 
 module Dojo
   class Error < StandardError; end
