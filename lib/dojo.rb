@@ -90,6 +90,7 @@ require_relative 'dojo/kyu_7/count_the_divisors'
 require_relative 'dojo/kyu_7/take_the_biggest_and_nothing_else'
 require_relative 'dojo/kyu_7/length_and_two_values'
 require_relative 'dojo/kyu_7/interlockable_binary_pairs'
+require_relative 'dojo/kyu_7/check_three_and_two'
 
 module Dojo
   class Error < StandardError; end
