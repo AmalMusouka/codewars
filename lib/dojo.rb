@@ -92,6 +92,7 @@ require_relative 'dojo/kyu_7/length_and_two_values'
 require_relative 'dojo/kyu_7/interlockable_binary_pairs'
 require_relative 'dojo/kyu_7/check_three_and_two'
 require_relative 'dojo/kyu_7/find_the_smallest_power_higher_than_a_given_value'
+require_relative 'dojo/kyu_7/simple_string_characters'
 
 module Dojo
   class Error < StandardError; end
